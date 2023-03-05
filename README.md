@@ -4,7 +4,8 @@
 
 This repository is the graduation project of the Artificial Intelligence Literacy Training Camp realized in cooperation with Global AI Hub and Aygaz.
 
-![Screenshot](/Users/muratdanaci/Desktop/Ekran Resmi 2023-03-05 19.55.13.png)
+![Ekran Resmi 2023-03-05 19 55 13](https://user-images.githubusercontent.com/89817372/222975011-6a6e5a83-daef-4d16-a577-fd35a0d7c8b0.png)
+
 
 
 
